@@ -8,6 +8,7 @@ Welcome! This workshop walks you through building a tiny end‑to‑end next‑t
 - This workshop is inspired by Andrej Karpathy’s makemore: https://github.com/karpathy/makemore/
 
 ## Prerequisites
+- Have LLVM Version 19 installed (Debian/Ubuntu: https://apt.llvm.org/) 
 - Have Dune installed, either from opam, or `curl -fsSL https://get.dune.build/install | sh`
 - Join the workshop chat on Discord: https://discord.gg/vKPEXGye
 
