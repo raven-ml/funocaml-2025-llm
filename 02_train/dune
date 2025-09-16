@@ -1,0 +1,3 @@
+(executables
+ (names solution)
+ (libraries rune kaun saga))
